@@ -1,2 +1,2 @@
-import curses;
-
+import gui
+import chat
