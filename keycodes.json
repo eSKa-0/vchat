@@ -1,0 +1,53 @@
+{
+  "BackSpace":
+  {
+    "Windows":"8",
+    "Linux":"u/n"
+  },
+  "Escape":
+  {
+    "Windows":"27",
+    "Linux":"u/n"
+  },
+  "Space":
+  {
+    "Windows":"32",
+    "Linux":"u/n"
+  },
+  "Tab":
+  {
+    "Windows":"9",
+    "Linux":"u/n"
+  },
+  "Enter":
+  {
+    "Windows":"10",
+    "Linux":"u/n"
+  },
+  "Arrow Up":
+  {
+    "Windows":"KEY_UP",
+    "Linux":"u/n"
+  },
+  "Arrow Down":
+  {
+    "Windows":"KEY_DOWN",
+    "Linux":"u/n"
+  },
+  "Arrow Right":
+  {
+    "Windows":"KEY_RIGHT",
+    "Linux":"u/n"
+  },
+  "Arrow Left":
+  {
+    "Windows":"ARROW_LEFT",
+    "Linux":"u/n"
+  },
+  "Function i":
+  {
+    "Windows":"KEY_F(i)",
+    "Linux":"u/n"
+  }
+  
+}
